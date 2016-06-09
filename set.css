@@ -1,0 +1,33 @@
+.css {
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Comic Sans MS, cursive;
+}
+ .text {
+	color: #00C;
+	font-weight: bold;
+	font-size: 24px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+body {
+	background-image: url(image/background.jpg);
+	background-repeat: no-repeat;
+	color: #D6D6D6;
+}
+
+.table {
+	-moz-border-radius:20px; /* garis melenggkung css 3 */
+	align:center;
+	border: dotted #00F;
+}
+.footer {
+	color: #003;
+	font-size: 14px;
+	font-weight: bold;
+	background: #0066FF;
+}
+
+hr{
+	color: blue ;
+}
